@@ -10,12 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/nikhil-kamboj420/Backend-with-Node.js-by-Nikhil.git"
   },
-  "keywords": ["learning node.js"],
+  "keywords": [
+    "learning node.js"
+  ],
   "author": "Nikhil kamboj",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nikhil-kamboj420/Backend-with-Node.js-by-Nikhil/issues"
   },
   "homepage": "https://github.com/nikhil-kamboj420/Backend-with-Node.js-by-Nikhil#readme",
-  "description": "learning Backend with node.js!"
+  "description": "learning Backend with node.js!",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
 }
